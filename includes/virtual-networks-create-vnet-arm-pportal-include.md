@@ -7,7 +7,7 @@ Gehen Sie folgendermaßen vor, um mit dem Azure-Vorschauportal ein VNet basieren
 
 	![Erstellen von VNet im Vorschauportal](./media/virtual-networks-create-vnet-arm-pportal-include/vnet-create-arm-pportal-figure1.gif)
 
-3. Konfigurieren Sie auf dem Blatt **Virtuelles Netzwerk erstellen** die VNet-Einstellungen, wie in der folgenden Abbildung dargestellt.
+3. Konfigurieren Sie in **Virtuelles Netzwerk erstellen** die VNet-Einstellungen, wie in der folgenden Abbildung dargestellt.
 
 	![Blatt "Erstellen eines virtuellen Netzwerks"](./media/virtual-networks-create-vnet-arm-pportal-include/vnet-create-arm-pportal-figure2.png)
 
