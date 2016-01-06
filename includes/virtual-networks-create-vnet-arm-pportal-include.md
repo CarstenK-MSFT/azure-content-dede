@@ -1,4 +1,4 @@
-## Erstellen eines VNet im Azure-Vorschauportal.
+## Erstellen eines VNet im Azure-Portal.
 
 Gehen Sie folgendermaßen vor, um mit dem Azure-Vorschauportal ein VNet basierend auf dem oben beschriebenen Szenario zu erstellen.
 
