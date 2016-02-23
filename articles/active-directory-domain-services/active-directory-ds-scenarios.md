@@ -58,7 +58,7 @@ Beachten Sie die folgenden wichtigen Punkte, wenn Sie dieses Szenario in Betrach
 
 
 ## Azure RemoteApp
-Azure RemoteApp ermöglicht dem Administrator von Contoso die Erstellung einer in die Domäne eingebundenen Sammlung. Dadurch können von Azure RemoteApp bereitgestellte Remoteanwendungen auf in die Domäne eingebundenen Computern ausgeführt werden und mit integrierter Windows-Authentifizierung auf andere Ressourcen zugreifen. Contoso kann mithilfe von Azure AD-Domänendiensten eine verwaltete Domäne bereitstellen, die von in die Domäne eingebundenen Azure RemoteApp-Sammlungen verwendet wird.
+Azure RemoteApp ermöglicht dem Administrator von Contoso die Erstellung einer in die Domäne eingebundenen Sammlung. Dadurch können von Azure RemoteApp bereitgestellte Remoteanwendungen auf in die Domäne eingebundenen Computer ausgeführt werden und mit integrierter Windows-Authentifizierung auf andere Ressourcen zugreifen. Contoso kann mithilfe von Azure AD-Domänendiensten eine verwaltete Domäne bereitstellen, die von in die Domäne eingebundenen Azure RemoteApp-Sammlungen verwendet wird.
 
 Weitere Informationen zu diesem Bereitstellungsszenario finden Sie im Remotedesktopdienste-Blog im Artikel [Lift-and-shift your workloads with Azure RemoteApp and Azure AD Domain Services](http://blogs.msdn.com/b/rds/archive/2016/01/19/lift-and-shift-your-workloads-with-azure-remoteapp-and-azure-ad-domain-services.aspx) (Verlagern von Workloads mit Azure RemoteApp und Azure AD-Domänendiensten).
 
