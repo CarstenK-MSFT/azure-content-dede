@@ -103,5 +103,5 @@ Metadaten zu Artikeln sind die Voraussetzung für bestimmte Funktionen auf der W
 ## Weitere Ressourcen
 
 Alle Anleitungsthemen finden Sie im [Index zum Leitfaden für Mitwirkende](./contributor-guide/contributor-guide-index.md).
-
+<!---HONumber=AcomDC_0307_2016-->
 <!---HONumber=AcomDC_0307_2016-->
